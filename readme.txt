@@ -1,0 +1,1 @@
+I made an online mobile market shopping application in Android studio. I used the Java language. I used firebase as database.
